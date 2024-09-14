@@ -2,7 +2,7 @@
 <p align="center">
   <img align="center" src="https://img1.picmix.com/output/stamp/normal/8/3/1/6/266138_92838.gif"/>
 </p>
-<h4 align="center"> Me encanta documentar todo lo que hago, Tambien poder ayudar a los demas y trabajar en equipo, por eso elegi dedicarme a la programación  </h4>
+<h4 align="center"> Me encanta documentar todo lo que hago, Tambien poder ayudar a los demas y trabajar en equipo  </h4>
 
 
 - ⸜(｡˃ ᵕ ˂ )⸝♡  tambien me dedico a aprender por mi cuenta ya sea programacion, ingles e incluso dibujo digital (el cual es mi hobby preferido)
