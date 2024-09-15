@@ -1,7 +1,7 @@
 <h1 align="center">Hola, Soy Paredes Dulce</h1>
 <h3 align="center">Programadora y Autodidacta</h3>
 
-<img align="right" src="https://img1.picmix.com/output/stamp/normal/8/3/1/6/266138_92838.gif"/>
+<img align="center" src="https://img1.picmix.com/output/stamp/normal/8/3/1/6/266138_92838.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulicito&label=Profile%20views&color=0e75b6&style=flat" alt="dulicito" /> </p>
 
