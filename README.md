@@ -15,7 +15,9 @@
 
 - ⚡ Dato curioso: **me encuentro aprendiendo desarrollo web**
 
-<h3 align="left">Connect with me:</h3>
+<a href='https://cafecito.app/dulicito' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_5.png 1x, https://cdn.cafecito.app/imgs/buttons/button_5_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_5_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_5.png' alt='Invitame un café en cafecito.app' /></a>
+
+<h3 align="left">Redes Sociales:</h3>
 <p align="left">
 <a href="https://instagram.com/dulicito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dulicito" height="30" width="40" /></a>
 <a href="https://youtube.com/@dulicito?feature=shared" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dulicito" height="30" width="40" /></a>
