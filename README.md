@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Paredes Dulce</h1>
-<h3 align="center">programadora y autodidacta</h3>
+<h3 align="center">Programadora y Autodidacta</h3>
 
 <img align="right" src="https://img1.picmix.com/output/stamp/normal/8/3/1/6/266138_92838.gif"/>
 
