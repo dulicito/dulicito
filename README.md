@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulicito&label=Profile%20views&color=0e75b6&style=flat" alt="dulicito" /> </p>
 
-- 🌱actualmente me encuentro estudiando: **Licenciatura en Sistemas (UNLP)**
+## Sos estudiante de Informatica (UNLP) ? 
 
-- 👨‍💻 Todos mis proyectos se encuentran en: [https://github.com/dulicito](https://github.com/dulicito)
-
-- 📝 Proyecto personal (Facultad Informatica): [https://dulicito.carrd.co/#two](https://dulicito.carrd.co/#two)
+ - [Carrd Facultad](https://dulicito.carrd.co/#two)
+ - [Canal de Youtube](https://www.youtube.com/@dulicito)
 
 - 📫 Como contactarme: **pv.sofiadulce@gmail.com**
 
-- ⚡ Dato curioso: **me encuentro aprendiendo desarrollo web**
 
 <a href='https://cafecito.app/dulicito' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_5.png 1x, https://cdn.cafecito.app/imgs/buttons/button_5_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_5_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_5.png' alt='Invitame un café en cafecito.app' /></a>
 
