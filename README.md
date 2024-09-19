@@ -12,25 +12,6 @@
 
 - 📫 Como contactarme: **pv.sofiadulce@gmail.com**
 
-  
-## 1er Año 
-
- - [CADP](https://github.com/dulicito/Conceptos-De-Algoritmos-Datos-y-Programas-)
- - [TDP](https://github.com/dulicito/Taller-de-Programacion)
- - [OC](https://github.com/dulicito/Organizacion-De-Computadoras-)
- - [AC](https://github.com/dulicito/Arquitectura-De-Computadoras)
-
-
-## 2do Año 
-
- - [FOD](https://github.com/dulicito/Fundamentos-de-Organizacion-de-Datos)
- - [AYED](https://github.com/dulicito/Algoritmos-y-Estructura-de-Datos)
- - [SDL](https://github.com/dulicito/Seminario-de-Lenguajes)
- - [DBD](https://github.com/dulicito/Diseno-de-Base-de-Datos)
-  - [IS1](https://github.com/dulicito/Ingenieria-de-Software-1)
- - [OO1](https://github.com/dulicito/Orientacion-a-objetos-1)
-  - [ISO](https://github.com/dulicito/Introduccion-a-Sistemas-Operativos)
-
 
 <a href='https://cafecito.app/dulicito' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_5.png 1x, https://cdn.cafecito.app/imgs/buttons/button_5_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_5_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_5.png' alt='Invitame un café en cafecito.app' /></a>
 
