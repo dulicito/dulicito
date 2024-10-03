@@ -7,6 +7,8 @@
 
 - 🌱 Me encuentro estudiando: **'Licenciatura en Sistemas' en la Universidad Nacional de la Plata**
 
+- 🎨 Tambien, me gusta todo lo relacionado con el diseño, asi que posiblemente termine enfocandome al desarrollo web.
+  
 - 💬 Quien soy? **posiblemente un holograma wUuUUu**
 
 - 📫 Mail: **pv.sofiadulce@gmail.com**
