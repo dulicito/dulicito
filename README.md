@@ -9,7 +9,7 @@
 
 - 🎨 Tambien, me gusta todo lo relacionado con el diseño, asi que posiblemente termine enfocandome al desarrollo web.
   
-- 💬 Quien soy? **posiblemente un holograma wUuUUu**
+- 💬 Quien soy? **ni yo se :0, pero se a donde voy**
 
 - 📫 Mail: **pv.sofiadulce@gmail.com**
 
