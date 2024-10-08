@@ -1,27 +1,28 @@
-<h1 align="center">Hola, Soy Paredes Dulce</h1>
-<h3 align="center">Autodidacta de la programación y los idiomas :D!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulicito&label=Profile%20views&color=0e75b6&style=flat" alt="dulicito" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulicito" alt="dulicito" /></a> </p>
-
-- 🌱 Me encuentro estudiando: **'Licenciatura en Sistemas' en la Universidad Nacional de la Plata**
-
-- 🎨 Tambien, me gusta todo lo relacionado con el diseño, asi que posiblemente termine enfocandome al desarrollo web.
-  
-- 💬 Quien soy? **ni yo se :0, pero se a donde voy**
-
-- 📫 Mail: **pv.sofiadulce@gmail.com**
-
-<a href='https://cafecito.app/dulicito' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_5.png 1x, https://cdn.cafecito.app/imgs/buttons/button_5_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_5_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_5.png' alt='Invitame un café en cafecito.app' /></a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/dulicito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dulicito" height="30" width="40" /></a>
-<a href="https://discord.gg/veladsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="veladsp" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/dulicito">
+    <img src="https://readme-typing-svg.demolab.com/?lines=PAREDES%20DULCE;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=30" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <!-- Typing SVG by Paredes Dulce - https://github.com/dulicito/readme-typing-svg -->
+  <a href="https://github.com/dulicito/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Programadora;Estudiante%20de%20Sistemas%20;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dulicito&show_icons=true&locale=en" alt="dulicito" /></p>
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/@dulicito"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287
+   <a href="https://cafecito.app/dulicito"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
+
+<pre>
+    💼 Me encuentro estudiando Idiomas de forma autodidacta (por el momento solo English & Français)
+    💻 Licenciatura en Sistemas(UNLP)
+    📖 Tambien en persona me tiro unos cuantos datazos randoms
+    🎮 I like : • Dibujar  • Aprender  • Programar • Michis !
+</pre>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulicito&label=Profile%20views&color=0e75b6&style=flat" alt="dulicito" /> </p>
