@@ -22,6 +22,7 @@
     💼 Me encuentro estudiando Idiomas de forma autodidacta (por el momento solo English & Français)
     💻 Licenciatura en Sistemas(UNLP)
     📖 Tambien en persona me tiro unos cuantos datazos randoms
+    🌹 Amo la Informatica y el Arte, asi que probablemente termine siendo Frontend xd
     🎮 I like : • Dibujar  • Aprender  • Programar • Michis !
 </pre>
 
