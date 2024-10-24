@@ -19,12 +19,10 @@
 </p>
 
 <pre>
-    💼 Me encuentro estudiando Idiomas de forma autodidacta (por el momento solo English & Français)
-    💻 Licenciatura en Sistemas(UNLP)
-    📖 Tambien en persona me tiro unos cuantos datazos randoms
-    🌹 Amo la Informatica y el Arte, asi que probablemente termine siendo Frontend xd
-    🥪 amoOoOo cocinar, curiosamente cosas dulces !
-    🎮 I like : • Dibujar  • Aprender  • Programar • Michis !
+    💻 Me encuentro estudiando la Licenciatura en Sistemas(UNLP)
+    📖 tambien, estudio de forma autodidacta idiomas(solo ingles y francés)
+    🌹 Amo la Informatica y el Arte, asi que probablemente termine especializandome en algun area relacionado a ambos habitos
+    🥪 Amo Amo Amo cocinar, dibujar, y los animalitos 
 </pre>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulicito&label=Profile%20views&color=0e75b6&style=flat" alt="dulicito" /> </p>
