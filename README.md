@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Typing SVG by Paredes Dulce - https://github.com/dulicito/readme-typing-svg -->
   <a href="https://github.com/dulicito/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Programadora?;Nop aun,Estudiante%20de%20Sistemas!%20;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Programadora?;Aun Nop,Estudiante%20de%20Sistemas!%20;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
