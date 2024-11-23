@@ -23,12 +23,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulicito&label=Profile%20views&color=0e75b6&style=flat" alt="dulicito" /> </p>
 
 </pre>
-<h2>¡Conéctate conmigo por Discord!</h2>
-<p>Si necesitas una mano con CADP, tenes duda con algun ejercicio de los repositorios o no tenes amigos(JAJAJA), aca te dejo mi discord</p>
+<h2>¡Conéctate conmigo!</h2>
+<p>Si necesitas una mano con CADP, tenes duda con algun ejercicio de los repositorios o no tenes amigos(JAJAJA), aca te dejo mis redes </p>
 <div align="left">
-  <a href="discordapp.com/users/760992094206427168" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
+<a href="https://youtube.com/@dulicito?si=LhbXeE1HRDCKni4U" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+</a>
+<a href="https://www.instagram.com/dulicito/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+</a>
 
-###
+<a href="https://discord.gg/760992094206427168" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+</a>
+
+<a href="mailto:pv.sofiadulce@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
+
+
