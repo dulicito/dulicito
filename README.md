@@ -22,6 +22,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulicito&label=Profile%20views&color=0e75b6&style=flat" alt="dulicito" /> </p>
 
+</pre>
 <h2>¡Conéctate conmigo por Discord!</h2>
 <p>Si necesitas ayuda ya sea con las materias del repositorio, tengas dudas con algun ejercicio o deseas hablar de alguna materia</p>
 <p>¡haz clic en el botón para enviarme un mensaje en Discord!</p>
