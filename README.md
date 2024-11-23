@@ -24,6 +24,11 @@
 
 </pre>
 <h2>¡Conéctate conmigo por Discord!</h2>
-<p>Si necesitas ayuda ya sea con las materias del repositorio, tengas dudas con algun ejercicio o simplemente charlar de informatica</p>
-<p>¡haz clic en el botón para enviarme un mensaje en Discord!</p>
-<a href="https://discord.com/users/760992094206427168" target="_black" style="display: inline-block; padding: 10px 20px; font-size: 16; color: white; background-color: #7289DA; text-align: center; border-radius: 5px; text-decoration: none;">haz click aca</a>
+<p>Si necesitas una mano con CADP, tenes duda con algun ejercicio de los repositorios o no tenes amigos(JAJAJA), aca te dejo mi discord</p>
+<div align="left">
+  <a href="discordapp.com/users/760992094206427168" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
