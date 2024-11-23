@@ -24,6 +24,6 @@
 
 </pre>
 <h2>¡Conéctate conmigo por Discord!</h2>
-<p>Si necesitas ayuda ya sea con las materias del repositorio, tengas dudas con algun ejercicio o deseas hablar de alguna materia</p>
+<p>Si necesitas ayuda ya sea con las materias del repositorio, tengas dudas con algun ejercicio o simplemente charlar de informatica</p>
 <p>¡haz clic en el botón para enviarme un mensaje en Discord!</p>
-<a href="https://discord.com/users/760992094206427168" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #7289DA; text-align: center; border-radius: 5px; text-decoration: none;">haz click aca</a>
+<a href="https://discord.com/users/760992094206427168" target="_black" style="display: inline-block; padding: 10px 20px; font-size: 16; color: white; background-color: #7289DA; text-align: center; border-radius: 5px; text-decoration: none;">haz click aca</a>
