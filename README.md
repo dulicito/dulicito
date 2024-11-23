@@ -16,6 +16,8 @@
     😼 el primer lenguaje de programación que aprendi? el scratch (evento canon de todo estudiante de informatica)
     📖 tambien, estudio de forma autodidacta idiomas(solo ingles y francés)
     🌹 Amo la Informatica y el Arte, asi que probablemente termine especializandome en algun area relacionado a ambos ambitos
+    🎨 eeeee, hablando de arte, aca hago mis furr-digo diseños <a href="http://instagram.com/drawlicito/" class="ig-b- ig-b-16"><img src="http://badges.instagram.com/static/images/ig-badge-16.png" alt="Instagram" /></a>
+
     ☕ cafecito ! :  <a href='https://cafecito.app/dulicito' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_2.png 1x, https://cdn.cafecito.app/imgs/buttons/button_2_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_2_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_2.png' alt='Invitame un café en cafecito.app' /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulicito&label=Profile%20views&color=0e75b6&style=flat" alt="dulicito" /> </p>
