@@ -21,8 +21,8 @@
     ☕ cafecito ! :  <a href='https://cafecito.app/dulicito' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_2.png 1x, https://cdn.cafecito.app/imgs/buttons/button_2_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_2_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_2.png' alt='Invitame un café en cafecito.app' /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulicito&label=Profile%20views&color=0e75b6&style=flat" alt="dulicito" /> </p>
 </pre>
-<h2>¡Conéctate conmigo!</h2>
-<p>Si necesitas una mano con CADP, tenes duda con algun ejercicio de los repositorios o no tenes amigos(JAJAJA), aca te dejo mis redes, no tengas miedo de hablarme(?)</p>
+<h2>¡Conectate en el server de Discord!</h2>
+<p> queres estudiar con amigos una materia o simplemente consultar sobre una materia? hace click en la solapa de discord de debajo</p>
 <div align="left">
 <a href="https://youtube.com/@dulicito?si=LhbXeE1HRDCKni4U" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
