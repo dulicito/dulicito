@@ -13,7 +13,7 @@
 
 <pre>
     💻 Me encuentro estudiando la Licenciatura en Sistemas(UNLP)
-    😼 el primer lenguaje de programación que aprendi? el scratch (evento canon de todo estudiante de informatica)
+    😼 me apasiona aprender las cosas ya sea de la Uni o por mi cuenta
     📖 tambien, estudio de forma autodidacta idiomas(solo ingles y francés)
     🌹 Amo la Informatica y el Arte, asi que probablemente termine especializandome en algun area relacionado a ambos ambitos
 </a>
