@@ -29,7 +29,7 @@
 <a href="https://github.com/dulicito/Arquitectura-de-Computadoras"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dulicito&repo=Arquitectura-de-Computadoras&theme=react&bg_color=000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 
 <h2>¡Conectate en el server de Discord!</h2>
-<p> queres estudiar con amigos una materia o simplemente consultar sobre una materia? hace click en la solapa de discord de debajo</p>
+<p> suelo estar siempre conectada por el discord, ya que estoy 24/7 en la compu (y si no lo estoy ando en la facu), si necesitas comparar ejercicios con algun compañero ando por el discord :] </p>
 <div align="left">
 <a href="https://youtube.com/@dulicito?si=LhbXeE1HRDCKni4U" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
