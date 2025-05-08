@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/dulicito">
     <img src="https://readme-typing-svg.demolab.com/?lines=DULICITO%20;&font=Fira%20Code&center=true&width=400&height=45&color=f3139b&vCenter=true&pause=1000&size=40" </p>
-    <img src="https://i.pinimg.com/originals/3e/ce/76/3ece7660379bbb66349b44d0eb901063.gif" width="130px" height="80px" />
+    <img src="https://i.pinimg.com/originals/3e/ce/76/3ece7660379bbb66349b44d0eb901063.gif" width="50px" height="50px" />
   </a>
 
 <p align="center">
