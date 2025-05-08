@@ -4,7 +4,7 @@
     <img src="https://i.pinimg.com/originals/3e/ce/76/3ece7660379bbb66349b44d0eb901063.gif" width="100px" height="59px" />
   </a>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/dulicito/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Programmer;Freelance;&font=Fira%20Code&center=true&width=450&height=20&color=f3139b&vCenter=true&pause=1000&size=22" /></a>
 </p>
