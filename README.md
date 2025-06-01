@@ -12,7 +12,7 @@
 
 ## 👋 About Me <img src="https://i.pinimg.com/originals/3e/ce/76/3ece7660379bbb66349b44d0eb901063.gif" width="50px" height="50px" />
     
-Hello! I'm **Dulicito**, a freelance programmer currently pursuing a degree in **systems**.  
+Hi! I'm **Dulicito**, a freelance programmer currently pursuing a degree in **systems**.  
 I’m passionate about technology and self-learning — I enjoy exploring new tools and improving my skills independently.
 
 🔹 Most of my personal projects are written in **English**, as my goal is to collaborate with **international clients**.  
