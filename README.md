@@ -21,7 +21,9 @@ I’m passionate about technology and self-learning — I enjoy exploring new to
 
 Thanks for visiting my profile!
 
-<img src="https://i.pinimg.com/736x/ab/42/f0/ab42f00f1ed1b24b48922c0293d092e1.jpg" width="500px" height="120px" />
+<p align='center'>
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=dulicito&theme=darkmode&data=followers,repositories,stars,commits' />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulicito&label=Profile%20views&color=0e75b6&style=flat" alt="dulicito" /> </p>
 </pre>
