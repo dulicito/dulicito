@@ -25,5 +25,9 @@ Thanks for visiting my profile!
   <img src='https://github-widgetbox.vercel.app/api/profile?username=dulicito&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulicito&label=Profile%20views&color=0e75b6&style=flat" alt="dulicito" /> </p>
 </pre>
