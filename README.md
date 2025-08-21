@@ -1,11 +1,11 @@
-  <table border="10">
+<table border="10">
      <tr>
        <td>
          <br>
 
-<div align="center">
+<div align="left">
    
- <img src="https://64.media.tumblr.com/c89f54a097bb348bcfeb86753e047d40/aa9daa5ef7db55e2-b7/s500x750/32e82b9a996d1b3acd68b87ae0854590320c70dd.pnj" width="65%" height="10%"></a>
+<img src="https://64.media.tumblr.com/c89f54a097bb348bcfeb86753e047d40/aa9daa5ef7db55e2-b7/s500x750/32e82b9a996d1b3acd68b87ae0854590320c70dd.pnj" width="65%" height="10%"></a>
 
 
   
@@ -27,6 +27,8 @@
 }}$<br><br>$\color{#9DC2EB}{\textsf{guardar resoluciones de materias, gracias por leer! }}$<br>&nbsp;  </kbd></p>
  <br>
     </td>
+</a>
+
   </tr>
   
 </table>
