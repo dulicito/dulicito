@@ -7,8 +7,11 @@
    
  <img src="https://64.media.tumblr.com/c89f54a097bb348bcfeb86753e047d40/aa9daa5ef7db55e2-b7/s500x750/32e82b9a996d1b3acd68b87ae0854590320c70dd.pnj" width="65%" height="10%"></a>
 
+
   
-<img src="https://64.media.tumblr.com/5e3c55f315084a19b81498521de71903/b2de84faa575c481-a2/s540x810/0702eb13b8b3a79a5d44c108d31a2d2b4462af1c.pnj" align="right" width="40%" alt="If you're seeing this, refresh your page!" title="omg una compu"></a>
+<img src="https://64.media.tumblr.com/5e3c55f315084a19b81498521de71903/b2de84faa575c481-a2/s540x810/0702eb13b8b3a79a5d44c108d31a2d2b4462af1c.pnj" align="right" width="20%" alt="hola soy una compu xd!" title="omg una compu"></a>
+
+
 
 
   <table border="2">
@@ -25,10 +28,14 @@
  <br>
     </td>
   </tr>
+  
 </table>
+
+<img src="https://64.media.tumblr.com/2b58aedb8b455f770d0b370d770b7bd9/b2de84faa575c481-09/s400x600/b64613d054960c5af17918f8d94c3e0d51536612.pnj" align="right" width="20%" alt="basurita" title="aaaa"></a>
             
   <p align="center"><img src="https://komarev.com/ghpvc/?username=dulicito&color=6084A8&style=for-the-badge&label=Vistas:" title="holiwis :3!"></p>
-   
+
+
 <img src="https://64.media.tumblr.com/c89f54a097bb348bcfeb86753e047d40/aa9daa5ef7db55e2-b7/s500x750/32e82b9a996d1b3acd68b87ae0854590320c70dd.pnj" width="55%" height="10%"></a>
        <br>
     </td>
