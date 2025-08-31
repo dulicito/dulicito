@@ -50,6 +50,6 @@
 <details>
               <summary> <td>$${\color{#6084A8}\verb|NO ABRIR|}$$</td></summary>
 
-<img width="289" height="323" alt="image" src="https://i.pinimg.com/originals/86/0a/45/860a4575d87bebaa1b1a18490f3e96ef.gif" />
+<img width="289" height="323" alt="image" src="https://i.pinimg.com/736x/f1/bb/d3/f1bbd353fde74dce7171f4af639ef016.jpg" />
 
 </details>
