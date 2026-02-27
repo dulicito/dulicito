@@ -6,8 +6,8 @@
   <img width="750" height="250" src="https://i.postimg.cc/vBWFzVyC/1.png">
 </p>
 
-<p align="center">you  know  where  to  find  me </p>
-<p align="center">　　and  i  know  where  to  look...</p>
+<p align="center">𝚢𝚘𝚞   𝚔𝚗𝚘𝚠   𝚠𝚑𝚎𝚛𝚎   𝚝𝚘   𝚏𝚒𝚗𝚍   𝚖𝚎 </p>
+<p align="center">　　   𝚊𝚗𝚍   𝚒   𝚔𝚗𝚘𝚠   𝚠𝚑𝚎𝚛𝚎   𝚝𝚘   𝚕𝚘𝚘𝚔...</p>
 
 <p align="center">
   <img width="1071" height="1606" src="https://i.postimg.cc/ZRrtcdmg/2.png">
