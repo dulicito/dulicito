@@ -10,10 +10,10 @@
 <p align="center">　　   𝚊𝚗𝚍   𝚒   𝚔𝚗𝚘𝚠   𝚠𝚑𝚎𝚛𝚎   𝚝𝚘   𝚕𝚘𝚘𝚔...</p>
 
 <p align="center">
-  <img width="1071" height="1606" src="https://i.postimg.cc/ZRrtcdmg/2.png">
+  <img width="750" height="300" src="https://i.postimg.cc/ZRrtcdmg/2.png">
 </p>
 
-<p align="center">dulicito　ₒᵣ　programadora　　(* ^ ω ^)　　22ᵧₒ　　arg. </p>
+<p align="center">dulicito　ₒᵣ　programadora　　(* ^ ω ^)　　23ᵧₒ　　arg. </p>
 <p align="center">estudiante y autodidacta　　⁺</p>
 <p align="center">me gusta el arte y las computadoras.</p>
 
